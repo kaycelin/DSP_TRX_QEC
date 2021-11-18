@@ -16,6 +16,8 @@ Hardware architecture:
 
 Process: 
 # RX QEC: 
+![image](https://user-images.githubusercontent.com/87049112/142358644-3ea57e39-d492-413a-8dd7-637b1ae96131.png)
+
 1a. Generate real signal of RXQECBBCSource_real, 10MHz          
 - Input 1a:
   - fs = 3.9322e+09
@@ -106,6 +108,8 @@ Process:
 1g. Correct the RX Imbalance parameters from QECest and generate Correct loD_Corr
 
 # TX QEC
+![image](https://user-images.githubusercontent.com/87049112/142358608-0bfa9a4e-2f1a-4150-92c1-e51f84109662.png)
+
 2a. Load waveform asign for TXQECBBCSource
 - Input 2a:
   - flag_TXQECBBSource = 'SignleTone'; (QEC Not support MultiCarrier Signal?)
