@@ -1,4 +1,4 @@
-# DSP_QEC
+# DSP_TRX_QEC
 Background: 
 - For Zero_IF architecture the mixer imbalance will introduce the image and damage the SNR (EVM)
 - To calculation the IQ imbalance and compensation by tuning the hardware IQ-mixer OR compensation by DSP
